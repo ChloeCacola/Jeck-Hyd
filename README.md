@@ -1,2 +1,2 @@
 # Jeck-Hyd
-Two Canadian servers, one computer.
+Exploring potential of testing on local server.
